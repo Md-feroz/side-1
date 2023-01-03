@@ -1,0 +1,201 @@
+*{
+    background-color: #f363ca;
+}
+h2{
+    text-align: center;
+    background-color: aqua;
+    
+}
+a{
+color: rgb(3, 19, 10);
+display: inline block;
+padding: 40px;
+margin-left: 60px;
+border-radius: 10px;
+}
+abbr{
+    text-align: center;
+    margin-left: 25px;
+}
+marquee{
+    text-size-adjust: 250pt;
+    color: rgb(249, 2, 2);
+    size: 300px;
+}
+ul{
+    color: goldenrod;
+    background-color: slateblue;
+    display: inline block;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+    
+    
+    
+}
+h1{
+    background-color: tomato;
+    margin: auto;
+    margin-right: 1220px;
+    padding: 20px;
+    border-radius: 20px;
+}
+title{
+    text-align: center;
+}
+form{
+    text-align: center;
+    
+}
+fieldset{
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(247, 252, 247);
+}
+table{
+    
+   
+    background: pink;
+    margin-left: 80px;
+}
+h3{
+    margin-left: 80px;
+    background: chartreuse;
+    margin-right: 1230px;
+}
+audio{
+    background-color: black;
+}
+
+.Vido{
+    background-color: rgb(180, 11, 118);
+}
+.submit{
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(160, 113, 13);
+
+}
+.child{
+    border: solid 20px rgb(200, 7, 181);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+.hd{
+    border: solid 20px rgb(200, 200, 255);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+
+}
+.a{
+    border: solid 20px rgb(26, 26, 91);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: rgb(169, 51, 8);
+
+}
+.b{
+    border: solid 20px rgb(249, 5, 41);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+.c{
+    border: solid 20px rgb(36, 241, 9);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+.d{
+    border: solid 20px rgb(20, 21, 20);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+
+.e{
+    border: solid 20px rgb(205, 27, 27);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+.f{
+    border: solid 20px rgb(214, 11, 45);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+
+}
+.g{
+    border: solid 20px rgb(200, 9, 86);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: rgb(169, 51, 8);
+
+}
+.h{
+    border: solid 20px rgb(205, 9, 19);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+.i{
+    border: solid 20px rgb(188, 6, 6);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+.j{
+    border: solid 20px rgb(212, 5, 85);
+    margin: 20px;
+    height: 250px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 10px;
+    color: coral;
+}
+.parint{
+    display:flex;
+    flex-wrap: wrap;
+}
+.grid{
+    display: grid;
+    grid-template-rows:repeat(3 1ft)
+}
